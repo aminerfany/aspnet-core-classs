@@ -1,0 +1,37 @@
+*{
+    direction: rtl;
+margin: 0px;
+padding: 0px;
+}
+header{
+
+border: 1px solid blue;
+height: 100px;
+margin-bottom: 5px
+   
+}
+aside {
+
+border: 1px solid green;
+width: 30%;
+float :right;
+height: 700px;
+
+}
+
+main{
+    border: 1px solid red;
+    width: 68%;
+    float :left;
+    height: 700px;
+    margin-bottom: 5px;
+ 
+}
+footer
+{
+    clear:both;
+    border: 1px solid orange;
+    background-color: orange;
+    height: 150px;
+  
+}
