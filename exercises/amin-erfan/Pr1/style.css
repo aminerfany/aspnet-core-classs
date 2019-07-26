@@ -17,6 +17,16 @@ aside {
   height: 700px;
 }
 
+section {
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  border: solid 1px #000;
+}
+section p {
+  display: inline-block;
+}
+
 main {
   border: 1px solid red;
   width: 68%;
